@@ -6,6 +6,7 @@ module.exports = {
         "eslint:recommended",
         "plugin:@typescript-eslint/recommended",
         "prettier",
+        "plugin:storybook/recommended"
     ],
     rules: {
         "@typescript-eslint/no-explicit-any": "off",
